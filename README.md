@@ -1,5 +1,6 @@
 # Kuppi-Basics
-Computer Organization
+
+# Computer Organization
   CPU
     ALU
     CU
@@ -13,7 +14,7 @@ Computer Organization
     Memory buffer
     Storage
     
-Computer Network
+# Computer Network
   TCP/IP
     Network Interface /Network Access layer
       - responsible for placing and receiving TCP/IP packets on the network.
@@ -24,8 +25,8 @@ Computer Network
     Application Layer (HTTP, FTP, SMTP)
       - provides applications the ability to access the services of the other layers and defines the protocols
     
- Client Server Model
+ # Client Server Model
  
- Distributed applications
+ # Distributed applications
  
- Examples : 
+ # Examples : 
