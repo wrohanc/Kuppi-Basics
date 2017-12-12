@@ -16,13 +16,13 @@
     
 # Computer Network
   TCP/IP
-    Network Interface /Network Access layer
+    1. Network Interface /Network Access layer
       - responsible for placing and receiving TCP/IP packets on the network.
-    Internet Layer
+    2. Internet Layer
       - responsible for addressing, packaging, and routing functions
-    Transport layer (Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP).)
+    3. Transport layer (Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP).)
       - responsible for providing the Application layer with session and datagram communication services.
-    Application Layer (HTTP, FTP, SMTP)
+    4. Application Layer (HTTP, FTP, SMTP)
       - provides applications the ability to access the services of the other layers and defines the protocols
     
  # Client Server Model
