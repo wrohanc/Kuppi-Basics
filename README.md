@@ -1,18 +1,18 @@
 # Kuppi-Basics
 
 # Computer Organization
-  CPU
-    ALU
-    CU
-    L1 Cache
-    L2 Cache
-    L3 Cache
-  Memory
-    Cache
-    Main memory
-  Secondary Storage(HDD/SSD)
-    Memory buffer
-    Storage
+  1. CPU
+    1.1. ALU
+    1.2. CU
+    1.3. L1 Cache
+    1.4. L2 Cache
+    1.5. L3 Cache
+  2. Memory
+    2.1. Cache
+    2.2. Main memory
+  3. Secondary Storage(HDD/SSD)
+    3.1. Memory buffer
+    3.2. Storage
     
 # Computer Network
   TCP/IP
